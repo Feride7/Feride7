@@ -1,4 +1,4 @@
-<h5>Hi  👋, I’m Feride<h5>
+<h4>Hi  👋, I’m Feride<h4>
   
 - 👀 I’m interested in Web Developpement
 - 🌱 I’m currently learning Nodejs
@@ -20,4 +20,3 @@
 <img align="left" alt="Ps" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-cc-1855022-1571403.png" />
 <img align="left" alt="vs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
--->
