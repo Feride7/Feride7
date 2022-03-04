@@ -1,7 +1,7 @@
 <h4>Hi  👋, I’m Feride<h4>
   
 - 👀 I’m interested in Web Developpement
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning NodeJS and ReactJS
 - 📫 How to reach me mavigokferide@gmail.com
 <hr>
 
