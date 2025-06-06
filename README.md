@@ -2,7 +2,6 @@
   
 - 👀 I’m interested in Web Developpement
 - 🌱 I’m currently learning NodeJS and ReactJS
-- 📫 How to reach me mavigokferide@gmail.com
 <hr>
 
 ### 🔧 Languages and Tools:
